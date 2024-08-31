@@ -6,7 +6,7 @@
 
 This project presents a detailed Performance Key Performance Indicators (KPIs) Dashboard designed to provide comprehensive insights into various business metrics. The dashboard visualizes data related to profits, gross sales, cost of goods sold (COGS), revenue, units sold, and more. It serves as a powerful tool for stakeholders to monitor and assess business performance across multiple dimensions, including product segments, countries, and time periods.
 
-[Download the Dashboard Image](https://drive.google.com/file/d/114vsuKk_HpEFZb1dH30Jn78nSGw-U3ie/view?usp=sharing)
+![Dashboard Image](https://drive.google.com/uc?export=view&id=114vsuKk_HpEFZb1dH30Jn78nSGw-U3ie)
 
 ## Table of Contents
 

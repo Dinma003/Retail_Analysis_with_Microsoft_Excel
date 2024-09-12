@@ -4,7 +4,8 @@
 
 Welcome to the Performance KPIs Dashboard project! This repository presents an interactive dashboard designed to visualize and monitor key business metrics. The dashboard provides an overview of essential KPIs such as profit, gross sales, COGS (Cost of Goods Sold), revenue, and units sold. It serves as a vital tool for data-driven decision-making, allowing stakeholders to assess and optimize business performance across different segments, products, and regions.
 
-![Dashboard Overview](https://drive.google.com/file/d/1quTt80yXESFSTc4EOc2-ZUfUTcilEgR6/view?usp=sharing)
+![Dashboard Overview]![Dashboard Image](https://drive.google.com/uc?export=view&id=114vsuKk_HpEFZb1dH30Jn78nSGw-U3ie)
+
 
 
 ## Table of Contents

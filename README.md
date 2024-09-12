@@ -1,12 +1,11 @@
-# Retail_Analysis_with_Microsoft_Excel
-
-## Performance KPIs Dashboard
+# Performance KPIs Dashboard
 
 ## Overview
 
-This project presents a detailed Performance Key Performance Indicators (KPIs) Dashboard designed to provide comprehensive insights into various business metrics. The dashboard visualizes data related to profits, gross sales, cost of goods sold (COGS), revenue, units sold, and more. It serves as a powerful tool for stakeholders to monitor and assess business performance across multiple dimensions, including product segments, countries, and time periods.
+Welcome to the Performance KPIs Dashboard project! This repository presents an interactive dashboard designed to visualize and monitor key business metrics. The dashboard provides an overview of essential KPIs such as profit, gross sales, COGS (Cost of Goods Sold), revenue, and units sold. It serves as a vital tool for data-driven decision-making, allowing stakeholders to assess and optimize business performance across different segments, products, and regions.
 
-![Dashboard Image](https://drive.google.com/uc?export=view&id=114vsuKk_HpEFZb1dH30Jn78nSGw-U3ie)
+![Dashboard Overview](https://drive.google.com/file/d/1quTt80yXESFSTc4EOc2-ZUfUTcilEgR6/view?usp=sharing)
+
 
 ## Table of Contents
 
@@ -18,7 +17,7 @@ This project presents a detailed Performance Key Performance Indicators (KPIs) D
    - [Total Revenue](#total-revenue)
    - [Total Units Sold](#total-units-sold)
 3. [Detailed Metrics](#detailed-metrics)
-   - [Revenue per Segment per Country](#revenue-per-segment-per-country)
+   - [Sales per Segment per Country](#sales-per-segment-per-country)
    - [Profit per Segment](#profit-per-segment)
    - [Sales per Product](#sales-per-product)
    - [Units Sold per Product](#units-sold-per-product)
@@ -32,78 +31,75 @@ This project presents a detailed Performance Key Performance Indicators (KPIs) D
 
 ## Project Description
 
-The Performance KPIs Dashboard is designed to provide a quick, at-a-glance view of the key metrics that drive business success. It includes visualizations such as bar charts, pie charts, and line graphs to represent the data clearly and effectively. The dashboard is intended for business analysts, managers, and executives who need to make informed decisions based on real-time data insights.
+The Performance KPIs Dashboard is an analytical tool developed to track and visualize key business metrics. By leveraging data visualization techniques, the dashboard provides stakeholders with actionable insights into various aspects of the business, such as profitability, sales trends, cost management, and market performance. The dashboard is built to support business analysts, executives, and decision-makers in making informed, data-driven decisions.
 
 ## Key Performance Indicators (KPIs)
 
 ### Total Profit
-- **Value:** $16,893,702.26
-- **Description:** The total profit is the net amount earned after subtracting all costs and expenses from the gross sales. This metric is crucial for understanding the overall profitability of the business.
+- **Value:** $16,880,012.21
+- **Description:** This figure represents the net profit after accounting for all expenses and costs. It is a critical measure of the overall financial health of the business.
 
 ### Total Gross Sales
-- **Value:** $127,911,598.50
-- **Description:** Total gross sales represent the total revenue generated from all sales transactions before any deductions. It indicates the scale of business operations.
+- **Value:** $127,904,858.50
+- **Description:** Gross sales indicate the total revenue generated from all sales before any deductions. This metric provides insight into the scale and scope of the company's sales activities.
 
 ### Total COGS (Cost of Goods Sold)
-- **Value:** $110,832,648.00
-- **Description:** COGS reflects the total cost of producing goods sold by the company. It is a key factor in determining gross profit.
+- **Value:** $101,823,615.00
+- **Description:** COGS represents the total cost incurred in producing the goods sold by the company. It is essential for calculating gross profit and understanding cost efficiency.
 
 ### Total Revenue
-- **Value:** $118,726,350.26
-- **Description:** Total revenue includes the gross sales minus the cost of goods sold. This figure gives a clearer picture of the income generated from core business activities.
+- **Value:** $118,703,527.21
+- **Description:** This metric reflects the total income generated after subtracting the cost of goods sold from gross sales. It is a key indicator of the company's ability to generate income from its operations.
 
 ### Total Units Sold
-- **Value:** 1,128,066 units
-- **Description:** This metric shows the total number of units sold across all products and regions. It helps in assessing the market penetration and product popularity.
+- **Value:** 1,123,771 units
+- **Description:** The total number of units sold provides insights into the volume of goods moved across different markets and segments, indicating product demand and market penetration.
 
 ## Detailed Metrics
 
-### Revenue per Segment per Country
+### Sales per Segment per Country
 - **Visualization:** Bar Chart
-- **Description:** This chart breaks down revenue by segment (e.g., product categories) and country, helping to identify the most profitable markets and segments.
+- **Description:** This chart breaks down sales data by segment and country, highlighting the performance of various product categories across different regions. It helps in identifying high-performing markets and potential areas for growth.
 
 ### Profit per Segment
 - **Visualization:** Pie Chart
-- **Description:** The pie chart displays the distribution of profit across different segments, highlighting which segments contribute most to the overall profit.
+- **Description:** The pie chart provides a visual representation of profit distribution across different segments. It is useful for understanding which segments are most profitable and should be prioritized for further investment.
 
 ### Sales per Product
 - **Visualization:** Bar Chart
-- **Description:** This bar chart shows the sales figures for individual products, providing insights into which products are performing well and which might need more attention.
+- **Description:** This bar chart shows sales figures for individual products, allowing for a comparison of product performance. It can be used to identify best-selling products and those that may need additional support.
 
 ### Units Sold per Product
 - **Visualization:** Bar Chart with Trend Line
-- **Description:** This chart not only shows the number of units sold per product but also includes a trend line to illustrate the sales trajectory over time.
+- **Description:** This visualization not only shows the number of units sold per product but also includes a trend line to track changes in sales volume over time, providing insights into product lifecycle and market dynamics.
 
 ### Total Sales per Segment
 - **Visualization:** Pie Chart
-- **Description:** This pie chart presents the proportion of total sales contributed by each segment, offering a quick view of segment performance.
+- **Description:** The pie chart illustrates the total sales contribution of each segment, offering a quick view of which segments are driving the majority of revenue.
 
 ### Trend of Gross Sales
 - **Visualization:** Line Chart
-- **Description:** The line chart depicts the monthly trend of gross sales, allowing for the identification of seasonal patterns or sales spikes.
+- **Description:** The line chart captures the trend of gross sales over time, helping to identify patterns, seasonal variations, and growth trajectories.
 
 ### Trend of Manufacturing Price per Year
 - **Visualization:** Line Chart with Bar Overlay
-- **Description:** This visualization tracks the trend in manufacturing costs over time, which is crucial for cost management and pricing strategies.
+- **Description:** This chart tracks changes in manufacturing costs over time, allowing for the assessment of cost efficiency and the impact on pricing strategies.
 
 ### Average Gross Sales of Country per Year
 - **Visualization:** Pie Chart
-- **Description:** The average gross sales per country per year chart provides an overview of the annual sales performance in different countries.
+- **Description:** The pie chart shows the average gross sales for each country on a yearly basis, providing insights into regional performance and helping to guide market entry or expansion strategies.
 
 ### COGS per Segment
 - **Visualization:** Bar Chart
-- **Description:** This chart breaks down the cost of goods sold by segment, helping to identify areas where cost management can be improved.
+- **Description:** This chart breaks down the cost of goods sold by segment, highlighting areas where cost management efforts could be focused to improve profitability.
 
 ## Recommendations
 
-Based on the data presented in the dashboard, here are some recommendations:
+Based on the insights derived from the dashboard, the following recommendations are proposed:
 
-1. **Focus on High-Performing Segments:** The segments contributing the most to total profit should be further leveraged through increased marketing and product development efforts.
-2. **Optimize Low-Performing Products:** Products with low sales or high COGS should be reviewed to determine if improvements can be made, whether through cost reduction, quality enhancement, or repositioning.
-3. **Expand in High-Revenue Countries:** Countries with high revenue should be targeted for expansion, possibly by introducing new products or increasing market penetration strategies.
-4. **Monitor Cost Trends:** Regularly monitor the trend of manufacturing costs to ensure that pricing strategies remain competitive without sacrificing profitability.
+1. **Enhance Focus on High-Profit Segments:** Segments contributing the most to overall profit should receive increased focus in terms of marketing, product development, and resource allocation to maximize returns.
+2. **Revise Strategies for Low-Performing Products:** Products with lower sales or higher COGS should be evaluated for potential improvements or repositioning to enhance their market performance.
+3. **Expand in High-Growth Markets:** Regions showing strong sales growth should be targeted for further expansion, possibly through tailored marketing campaigns or localized product offerings.
+4. **Monitor Cost Trends Closely:** Regular monitoring of manufacturing costs and COGS is recommended to ensure that cost-efficiency improvements are sustained and that pricing strategies remain competitive.
 
-## Conclusion
-
-The Performance KPIs Dashboard provides a comprehensive overview of the key metrics driving business success. By visualizing data across multiple dimensions such as product segments, countries, and time periods, stakeholders can make informed decisions that enhance profitability, optimize costs, and drive growth. The recommendations provided should guide strategic planning and operational improvements.
 
